@@ -1,0 +1,11 @@
+{
+  "id": "Tippstatistik",
+  "name": "Tippstatistik",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Trackt Tippstatistiken in Obsidian.",
+  "author": "Elodin",
+  "authorUrl": "",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
